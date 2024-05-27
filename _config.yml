@@ -20,8 +20,8 @@
 
 title: Weighting My Options
 description: Project in using mass-distribution to improve performance of robotic arm. KAIST Machine Learning for Robotics.
-baseurl: "/Weighting-My-Options"
-url: "https://thedingodile.github.io"
+baseurl: "/Robotics"
+url: "https://thedingodile.github.io/Robotics"
 theme: minima
 
 # Build settings
